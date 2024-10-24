@@ -2,7 +2,7 @@
 
 export default function Home() {
   return (
-    <div className="h-full">
+    <div className="border-2 border-red-700 p-2 lg:p4 ">
       <section className=" ">
         My name
       </section>
