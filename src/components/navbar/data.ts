@@ -4,7 +4,7 @@ export const linksData = [
         path: "/"
     },
     {
-        title: "About me",
+        title: "About",
         path: "/about"
     },
     {
